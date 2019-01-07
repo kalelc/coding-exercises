@@ -14,7 +14,7 @@ func Staircase(n int32) {
 
 		var j, k int32
 
-		for ; j <= (n-i)-1; j++ {
+		for ; j <= (n - i); j++ {
 			content += " "
 		}
 
